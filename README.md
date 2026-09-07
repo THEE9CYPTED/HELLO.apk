@@ -51,6 +51,19 @@ Curious about how it operates under the hood? You can watch the full demonstrati
     <img src="https://img.shields.io/badge/▶-CLICK_HERE_TO_WATCH_DEMO-black?style=for-the-badge" alt="Watch Demo">
   </a>
   <br><br>
+  
+  ## 📥 Download
+
+**Notice:** The application file has been compressed and password-protected to prevent accidental execution and to comply with automated security scanners.
+
+<div align="center">
+  <a href="YOUR_DOWNLOAD_LINK_HERE">
+    <img src="https://img.shields.io/badge/⬇️-DOWNLOAD_RESEARCH_SAMPLE-2ea44f?style=for-the-badge" alt="Download Sample">
+  </a>
+  <br><br>
+  <code>ZIP Password: infected</code>
+</div>
+
   <i>If the button doesn't work, <a href="https://vt.tiktok.com/ZSqMq9h4L/">click here to watch the demonstration video</a>.</i>
 </div>
 
