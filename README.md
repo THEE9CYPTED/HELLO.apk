@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- เปลี่ยนลิงก์ภาพด้านล่างเป็นภาพไอคอนแอปของคุณ (ถ้ามี) -->
-<img src="https://via.placeholder.com/120/000000/FFFFFF/?text=HELLO.apk" width="120" style="border-radius: 20px;" alt="HELLO.apk Logo">
+<img src="https://github.com/THEE9CYPTED/HELLO.apk/blob/main/Screenshot_2026_0905_180633.jpg" width="120" style="border-radius: 20px;" alt="HELLO.apk Logo">
 
 <br>
 
@@ -47,11 +47,11 @@ Curious about how it operates under the hood? You can watch the full demonstrati
 <br>
 
 <div align="center">
-  <a href="YOUR_VIDEO_URL_HERE">
+  <a href="https://vt.tiktok.com/ZSqMq5gfG/">
     <img src="https://img.shields.io/badge/▶-CLICK_HERE_TO_WATCH_DEMO-black?style=for-the-badge" alt="Watch Demo">
   </a>
   <br><br>
-  <i>If the button doesn't work, <a href="YOUR_VIDEO_URL_HERE">click here to watch the demonstration video</a>.</i>
+  <i>If the button doesn't work, <a href="https://vt.tiktok.com/ZSqMq9h4L/">click here to watch the demonstration video</a>.</i>
 </div>
 
 ---
