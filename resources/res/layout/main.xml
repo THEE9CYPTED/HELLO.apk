@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+    <TextView
+        android:textSize="29sp"
+        android:textStyle="italic|bold"
+        android:textColor="#f44336"
+        android:id="@+id/textview3"
+        android:padding="8dp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="YOU ARE AN IDIOT"
+        android:translationX="-3dp"/>
+    <TextView
+        android:textSize="12sp"
+        android:textStyle="italic|bold"
+        android:textColor="#f44336"
+        android:id="@+id/textview4"
+        android:padding="8dp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="HAHAHAHA"
+        android:translationX="106dp"/>
+    <EditText
+        android:textSize="20sp"
+        android:textColor="#f44336"
+        android:id="@+id/edittext1"
+        android:padding="8dp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="you got hacked by TheEncrypted"
+        android:hint="Edit Text"/>
+    <TextView
+        android:textSize="16sp"
+        android:textStyle="italic|bold"
+        android:textColor="#3f51b5"
+        android:id="@+id/textview2"
+        android:padding="8dp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="your phone is gone in 10 second "/>
+    <ImageView
+        android:id="@+id/imageview1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:src="@drawable/die"
+        android:scaleType="center"/>
+</LinearLayout>

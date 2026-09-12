@@ -1,0 +1,35 @@
+Signature-Version: 1.0
+Created-By: 1.0 (Android)
+SHA-256-Digest-Manifest: z8mg8/coQmfX0vlVCZ36BNjtIirTwWIaPde3dYTTAac=
+X-Android-APK-Signed: 2, 3
+
+Name: AndroidManifest.xml
+SHA-256-Digest: UGBn/aCELHMJEpChwlm4yEpqWIRRghCT5lzVcG72pOg=
+
+Name: classes.dex
+SHA-256-Digest: J0PiUeWDO1Fb7pjBd55bHmMOIS0rP02tdMmVJ4XIR3g=
+
+Name: classes2.dex
+SHA-256-Digest: KZOdMPOxwM9bkzBGp2HNSQDTS9xmKPVCZ1+vCGNGByU=
+
+Name: res/drawable-xhdpi-v4/default_image.png
+SHA-256-Digest: aktsDrhwy3ex8ad59r3aoV+5TJncFYVy98Lcvjc4s44=
+
+Name: res/drawable-xhdpi-v4/die.png
+SHA-256-Digest: eBqrgKK6eHi35Pug0r7EUHh7D6HTdlNe7Etq+JwIr5k=
+
+Name: res/drawable-xhdpi-v4/kuy001.png
+SHA-256-Digest: Esg01TAhoTBoRaBExDZVjinfuFgx26xi8WHTueUWd0s=
+
+Name: res/layout/main.xml
+SHA-256-Digest: teSXxOgT4f1pkxaCwk3K60ZFW72T+YWqg83lhHGNUqE=
+
+Name: res/mipmap-xhdpi-v4/ic_launcher.png
+SHA-256-Digest: kQZkOUeJBqloQoiMpa7gaVaTXmtwgJuZTkGA5H5+83o=
+
+Name: res/raw/loser.aac
+SHA-256-Digest: QGaqVGl6km3QpdC1Hv8y9N88drQyT70Sz2xB+JZRkiE=
+
+Name: resources.arsc
+SHA-256-Digest: j0eOeNObCeG0bn3Rl7KVFPVSyeNAEpdQ2Kki/zyQuAQ=
+

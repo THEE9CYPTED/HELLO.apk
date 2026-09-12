@@ -1,0 +1,32 @@
+Manifest-Version: 1.0
+
+Name: AndroidManifest.xml
+SHA-256-Digest: BhHOQT98BhJKR1ripUDu2DE9YVd8ND97CQmNxRbbQsI=
+
+Name: classes.dex
+SHA-256-Digest: YwRmLw2OkZU+3592n+ux1R+MTGQoVV71DWLcKHHrTxQ=
+
+Name: classes2.dex
+SHA-256-Digest: tqT5pAuydBmTWdkEK/4nWE2wSJxhXfnP0l3f8UsRkvY=
+
+Name: res/drawable-xhdpi-v4/default_image.png
+SHA-256-Digest: B0d9ijOaAGx/hf4odj1JhA/R45GJYIgbcpizgNCiiUc=
+
+Name: res/drawable-xhdpi-v4/die.png
+SHA-256-Digest: pFu95DypyCdppMIOussUap6yqnMtm2vxrm8wh4fYhEU=
+
+Name: res/drawable-xhdpi-v4/kuy001.png
+SHA-256-Digest: grmXNxEfJVulFyr7lZ+2CEY4J26OV+fzXvjTiXKaslA=
+
+Name: res/layout/main.xml
+SHA-256-Digest: spi3sleCEWxOg+c9ib6zGvNzAEjnZ7zz5DYG/jUfDRo=
+
+Name: res/mipmap-xhdpi-v4/ic_launcher.png
+SHA-256-Digest: xCM6adJY1ys4U8GgYtVwoP4wE2HkONFpy7zwwEtJnHg=
+
+Name: res/raw/loser.aac
+SHA-256-Digest: qBYnvNn3u4g/YNH5kELJ/Wel9Ns4biq924uyjl7INgg=
+
+Name: resources.arsc
+SHA-256-Digest: ugca+5vviFrDMdp4LfSn9xO5iwUZiyWJ9ThaMt9wEJ8=
+
